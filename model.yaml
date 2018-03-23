@@ -1,0 +1,14 @@
+model_name: Summarizer
+model_desc:
+  details: dummy details
+  keywords: [regression, machine learning]
+  type: regression
+model_info: {category: machine-learning, name: random-forest}
+model_log: {created_at: 20-03-2018}
+model_versions:
+- v0.1: {category: incubate, features: This is the basic model, release_date: 20-03-2018,
+    release_notes: First of the incubate}
+- v0.2: {category: incubate, features: This is the basic model, release_date: 20-03-2018,
+    release_notes: Second of the incubate release}
+- v0.3: {category: prod, features: hi thsi is a new vwesion, release_date: '2018-03-21',
+    release_notes: ajkldcnnsdckjsdnc}
